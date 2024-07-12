@@ -1,0 +1,4 @@
+name: Nine_micra
+version: '1.0-SNAPSHOT'
+main: plugin.nine_micra.Main
+api-version: '1.20'

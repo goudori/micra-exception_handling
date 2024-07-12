@@ -1,0 +1,4 @@
+name: Nine_micra
+version: '${version}'
+main: plugin.nine_micra.Main
+api-version: '1.20'
